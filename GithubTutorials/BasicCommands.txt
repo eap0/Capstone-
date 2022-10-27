@@ -1,0 +1,55 @@
+_____________________________
+|Adding Files To Your Branch|
+|___________________________|
+
+First, stage the files you want to add to your commit:
+> git add filename.file
+
+Optionally, check what is on your stage:
+> git status
+
+Create your commit:
+> git commit -m "commit message"
+The commit message should be as short and descriptive as you can make
+it. Good examples: "Changed default blinding strategy" "removed lingering 
+references to FIBER" Bad example: "updated branch"
+
+Push all your staged commits to your branch on the repo:
+> git push
+
+__________________
+|Updating the repo|
+|_________________|
+
+When you have a feature or file that you want everyone to share, you'll 
+want to add that to the "main" branch! To move something from your repo
+branch to "main", you'll need to submit a "pull request". Make an
+announcment on Slack, and the others can reveiw & approve it. Once 
+approved, we'll all need to "pull" the new version of the repo:
+
+> git pull
+
+This will check for changes to all the branches on the repo, and overwrite
+files you have not changed locally. If there are differences between your
+local version and the current github version, you'll get a message asking 
+for you to either commit or "stash" your changes. You'll want to commit 
+anything you want to save, and stash what you want to trash. 
+
+_______________
+|Branch Basics|
+|_____________|
+
+Create a new branch (locally):
+> git checkout -b newbranchname
+
+Upload your branch to the repo:
+> git push origin newbranchname
+
+Switch to a different branch:
+> git checkout branchname
+
+Check which branch you're on (will open in a text editor window):
+> git branch 
+type "q" to quit the text editor
+
+
