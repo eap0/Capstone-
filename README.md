@@ -12,13 +12,13 @@ We assume you have an Anaconda package manager that includes numpy, matplotlib, 
 python packages.
 
 To install:
-pip install -e .
+<code>pip install -e .</code>
 
-Other package dependencies:
-plotly: https://plotly.com/python/
+Other package dependencies: <br>
+plotly: https://plotly.com/python/ <br>
 corner: https://corner.readthedocs.io/en/latest/install/
 
-Once downloaded, you'll need to unzip the main data spreadsheet:
+Once downloaded, you'll need to unzip the main data spreadsheet: <br>
 mort_with_15yrpoverty.csv.zip
 
 Notebooks used to make plots are located in the "Notebooks" directory.
