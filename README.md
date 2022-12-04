@@ -1,6 +1,6 @@
 This repository is for the Fall 2022 Erdos institute capstone project "Mortality" by
-Kirsten Casey
-Lauren Ennesser
+Kirsten Casey,
+Lauren Ennesser, and 
 Ethel Perez
 
 Our aim is to find identify predictors of high deathrates in US counties.
