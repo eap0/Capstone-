@@ -8,13 +8,18 @@ We use data from the US Census, US Department of Labor, and EPA to study the dea
 of US counties for different races, genders, and age groups, and compare these to air quality 
 measurements and poverty rates. 
 
+We assume you have an Anaconda package manager that includes numpy, matplotlib, and other standard
+python packages.
+
 To install: 
-pip install blah blah blah
+pip install -e .
 
-Other packages:
-blah blah blah
+Other package dependencies:
+plotly: https://plotly.com/python/
+corner: https://corner.readthedocs.io/en/latest/install/
 
-Once downloaded, you'll need to unzip the main data spreadsheet.
+Once downloaded, you'll need to unzip the main data spreadsheet:
+mort_with_15yrpoverty.csv.zip
 
 Notebooks used to make plots are located in the "Notebooks" directory.
 
