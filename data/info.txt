@@ -1,0 +1,53 @@
+Air Quality Columns
+
+CO 8-hr 2nd Max
+For Carbon Monoxide, the 2nd highest non-overlapping 8-hour average in the year.
+
+The greatest sources of CO to outdoor air are cars, trucks and other vehicles or machinery that burn fossil fuels.
+___________________________________
+
+NO2 Annual Mean
+For Nitrogen Dioxide, the annual mean of all the 1-hour measurements in the year.
+
+NO2 primarily gets in the air from the burning of fuel. NO2 forms from emissions from cars, trucks and buses, power plants, and off-road equipment.
+___________________________________
+
+O3 8-hr 4th Max
+For Ozone, the 4th highest daily max 8-hour average in the year.
+
+Tropospheric, or ground level ozone, is not emitted directly into the air, 
+but is created by chemical reactions between oxides of nitrogen (NOx) and 
+volatile organic compounds (VOC). This happens when pollutants emitted by 
+cars, power plants, industrial boilers, refineries, chemical plants, and 
+other sources chemically react in the presence of sunlight.
+___________________________________
+
+SO2 Annual Mean
+For Sulfur Dioxide, the annual mean of all the 1-hour measurements in the year.
+
+The largest source of SO2 in the atmosphere is the burning of fossil fuels by 
+power plants and other industrial facilities. Smaller sources of SO2 emissions 
+include: industrial processes such as extracting metal from ore; natural sources 
+such as volcanoes; and locomotives, ships and other vehicles and heavy equipment 
+that burn fuel with a high sulfur content. 
+___________________________________
+
+PM2.5 Wtd Mean
+For PM2.5, the Weighted Annual Mean (mean weighted by calendar quarter) for the year. 
+(Note: PM2.5 data reported as parameter 88502 are not included in this summary report. 
+Only federal reference method PM2.5 data reported as parameter 88101  are included in this report.) 
+
+These particles come in many sizes and shapes and can be made up of hundreds of different chemicals.
+Some are emitted directly from a source, such as construction sites, unpaved roads, fields, smokestacks or fires.
+Most particles form in the atmosphere as a result of complex reactions of chemicals such as sulfur dioxide and 
+nitrogen oxides, which are pollutants emitted from power plants, industries and automobiles.
+___________________________________
+
+Lead Max 3-Mo Avg
+For Lead, the maximum of all rolling 3-month averages in the year.
+
+At the national level, major sources of lead in the air are ore and metals processing 
+and piston-engine aircraft operating on leaded aviation fuel. Other sources are waste 
+incinerators, utilities, and lead-acid battery manufacturers. The highest air 
+concentrations of lead are usually found near lead smelters.
+___________________________________
